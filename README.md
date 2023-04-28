@@ -5,8 +5,9 @@ This repository contains all codes used to generate figures in Stevenson et al. 
 -------------------------------------------
 
 Data pre-processing and I/O for in situ oceanographic observations:
-readsbe37data_temp_interp.m
-readsbe56data_temp_interp.m
-readsbedata_salt_interp.m
-readaqddata_temp.m
-palmyratemp_dailyavg_allinst.m
+
+- readsbe37data_temp_interp.m
+- readsbe56data_temp_interp.m
+- readsbedata_salt_interp.m
+- readaqddata_temp.m
+- palmyratemp_dailyavg_allinst.m
