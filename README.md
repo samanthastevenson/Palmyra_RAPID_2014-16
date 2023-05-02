@@ -12,6 +12,7 @@ _Data pre-processing and I/O for in situ oceanographic observations and gridded 
 - readaqddata_temp.m
 - palmyratemp_dailyavg_allinst.m
 - nino34_ersstoisst.m
+- palmyra_rapid_cred_satellite.m
 
 _Coral mini-core data I/O and calculation of SST contribution to coral d18O_:
 
