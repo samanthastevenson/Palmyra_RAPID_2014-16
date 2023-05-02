@@ -3,7 +3,7 @@
 -------------------------------------------
 This repository contains all codes used to generate figures in Stevenson et al. (2023), GRL. The following is a list of the codes included, organized according to the type of functionality performed by each.
 
-_Data pre-processing and I/O for in situ oceanographic observations_:
+_Data pre-processing and I/O for in situ oceanographic observations and gridded satellite data products_:
 
 - readsbe37data_temp_interp.m
 - readsbe56data_temp_interp.m
@@ -11,8 +11,10 @@ _Data pre-processing and I/O for in situ oceanographic observations_:
 - readsbedata_salt_interp.m
 - readaqddata_temp.m
 - palmyratemp_dailyavg_allinst.m
+- nino34_ersstoisst.m
 
 _Coral mini-core data I/O and calculation of SST contribution to coral d18O_:
 
 - minicore_d18osw.m
 - sstcontr_palmyra_elninoevts.m
+
