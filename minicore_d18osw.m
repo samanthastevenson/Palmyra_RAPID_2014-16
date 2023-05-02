@@ -43,5 +43,5 @@ set(gca,'YColor','b','YDir','reverse')
 title('Coral, seawater \delta^{18}O (Palmyra)')
 legend({'RT4','RT4(2)','RT10','FR3','\delta^{18}O_{sw}'})
 saveas(gcf,'~/Box Sync/PalmyraFieldwork/plots/minicore_d18osw.fig','fig');
-
+ 
 
