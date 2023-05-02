@@ -19,6 +19,9 @@ _Plotting in situ observational and gridded data products_:
 - palmyrapd18op_wsatellite.m: Plots precipitation and d18O of precipitation collected from Palmyra weather station. Used in main-text Figure 1e.
 
 - palmyra_rapid_cred_satellite.m: Plots temperature information from all in situ measurements including CRED. Used in Supplementary Figure S2.
+- temperature_aqd_dailyavg.m: Plots daily averages of temperature from all Aquadopp sensors. Used in Supplementary Figure S3.
+- temperature_sbe37_dailyavg.m: Plots daily averages of temperature from all SBE37 sensors. Used in Supplementary Figure S3.
+- temperature_sbe56_dailyavg.m: Plots daily averages of temperature from all SBE56 sensors. Used in Supplementary Figure S3.
 - rainvsalinity.m: Plots rainfall versus salinity for Palmyra. Used in Supplementary Figure S8.
 
 _Coral mini-core data I/O and calculation of SST contribution to coral d18O_:
