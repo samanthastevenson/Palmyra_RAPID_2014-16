@@ -14,4 +14,5 @@ _Data pre-processing and I/O for in situ oceanographic observations_:
 
 _Coral mini-core data I/O and calculation of SST contribution to coral d18O_:
 
+- minicore_d18osw.m
 - sstcontr_palmyra_elninoevts.m
