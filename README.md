@@ -13,7 +13,7 @@ _Data pre-processing and I/O for in situ oceanographic observations_:
 
 _Plotting in situ observational and gridded data products_:
 
-- nino34_ersstoisst.m: Plots NINO3.4 SST from the ERSSTv5 and OISSTv2 products. Used in main-text Figure 1a
+- nino34_ersstoisst.m: Plots NINO3.4 SST from the ERSSTv5 and OISSTv2 products. Used in main-text Figure 1a.
 - palmyratemp_dailyavg_allinst.m: Plots temperature data from all 2014-16 deployments. Used in main-text Figure 1c.
 - palmyrasal_dailyavg_allinst.m: Plots temperature data from all 2014-16 deployments. Used in main-text Figure 1d.
 - palmyrapd18op_wsatellite.m: Plots precipitation and d18O of precipitation collected from Palmyra weather station. Used in main-text Figure 1e.
