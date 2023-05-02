@@ -7,6 +7,11 @@ _Data pre-processing and I/O for in situ oceanographic observations_:
 
 - readsbe37data_temp_interp.m
 - readsbe56data_temp_interp.m
+- readcreddata_sbe37_temp.m
 - readsbedata_salt_interp.m
 - readaqddata_temp.m
 - palmyratemp_dailyavg_allinst.m
+
+_Coral mini-core data I/O and calculation of SST contribution to coral d18O_:
+
+- sstcontr_palmyra_elninoevts.m
