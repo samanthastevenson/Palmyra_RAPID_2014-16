@@ -22,6 +22,7 @@ _Plotting in situ observational and gridded data products_:
 - temperature_aqd_dailyavg.m: Plots daily averages of temperature from all Aquadopp sensors. Used in Supplementary Figure S3.
 - temperature_sbe37_dailyavg.m: Plots daily averages of temperature from all SBE37 sensors. Used in Supplementary Figure S3.
 - temperature_sbe56_dailyavg.m: Plots daily averages of temperature from all SBE56 sensors. Used in Supplementary Figure S3.
+- aqdvel_wbathy.m: Plots arrows corresponding to Aquadopp current velocities, superimposed on high-resolution Palmyra bathymetry. Used in Supplementary Figure S7.
 - rainvsalinity.m: Plots rainfall versus salinity for Palmyra. Used in Supplementary Figure S8.
 
 _Coral mini-core data I/O and calculation of SST contribution to coral d18O_:
